@@ -1,4 +1,4 @@
-# extra-js
+# programas-extra-js
 Pequenos programas utilizando JS.
 
 # Cria Recados
